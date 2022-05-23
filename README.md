@@ -1,11 +1,22 @@
-### Hi there 👋
+<h1 align=center>About Me</h1>
 
-<!--
-**CodeWhatThouWilt/CodeWhatThouWilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Stats</h3>
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewhatthouwilt&hide=stars,issues&show_icons=true&theme=github_dark)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yake&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
+
+
+
+
+
+
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -1,4 +1,34 @@
-<h1 align=center>About Me</h1>
+<h2 align=center>About Me</h2>
+
+```
+A few things I like to do (other than coding):
+  • Read. A lot. Mostly nonfiction.
+  • Strength and conditioning training
+  • Fishing
+  • Gardening
+```
+
+<h2 align=center>Technologies</h2>
+<div align=center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style=width:50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style=width:50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style=width:50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style=width:50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=width:50px />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/socketio/socketio-original-wordmark.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style=width:50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style=width:50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style=width:50px/>
+          
+          
+          
+  
 
 <div align=center>
 <h2>Stats</h2>
@@ -18,8 +48,7 @@
   <div align=left>
 
 ```
-I'm currently putting most of my time into Coffeehouse,
-which is a lightweight clone of discord's web application.
+I'm currently putting most of my time into Coffeehouse, which is a lightweight clone of discord's web application.
 
 A few of the features it has are:
   • Live messaging
@@ -31,7 +60,7 @@ A few of the features it has are:
 </div>
 
 </br>
-<h3 align=center>Connect!</h3>
+<h2 align=center>Connect!</h2>
 <div align=center>
   <a href=https://www.linkedin.com/in/jacob-north-9b1266226/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style=width:50px />

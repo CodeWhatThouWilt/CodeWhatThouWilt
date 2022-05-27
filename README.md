@@ -33,7 +33,7 @@ A few things I like to do (other than coding):
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewhatthouwilt&hide=stars,issues&show_icons=true&theme=github_dark)](https://github.com/CodeWhatThouWilt)
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Yake&theme=github_dark)](https://github.com/CodeWhatThouWilt)
+<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Yake&theme=github_dark)](https://github.com/CodeWhatThouWilt) -->
 
   </br>
 </div>

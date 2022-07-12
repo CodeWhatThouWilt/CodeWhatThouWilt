@@ -4,8 +4,6 @@
 A few things I like to do (other than coding):
   • Read. A lot. Mostly nonfiction.
   • Strength and conditioning training
-  • Fishing
-  • Gardening
 ```
 
 <h2 align=center>Technologies</h2>

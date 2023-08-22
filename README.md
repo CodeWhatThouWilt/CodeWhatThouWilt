@@ -46,7 +46,8 @@ A few things I like to do (other than coding):
 I'm currently putting most of my time into Coffeehouse, which is a lightweight clone of discord's web application.
 
 A few of the features it has are:
-  • Live messaging
+  • Create, update and delete live messages
+  • OpenAI API integration for AI chat
   • Server invite links
   • Create, update and delete servers
   • Create, update and delete channels

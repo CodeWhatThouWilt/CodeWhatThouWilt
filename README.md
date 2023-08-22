@@ -26,7 +26,7 @@ A few things I like to do (other than coding):
   
 
 <div align=center>
-<h2>Stats</h2>
+<!-- <h2>Stats</h2> -->
   </br>
   
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewhatthouwilt&hide=stars,issues&show_icons=true&theme=github_dark)](https://github.com/CodeWhatThouWilt) -->

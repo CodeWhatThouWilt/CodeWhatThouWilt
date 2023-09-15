@@ -29,7 +29,7 @@ A few things I like to do (other than coding):
 <!-- <h2>Stats</h2> -->
   </br>
   
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewhatthouwilt&hide=stars,issues&show_icons=true&theme=github_dark)](https://github.com/CodeWhatThouWilt) -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewhatthouwilt&hide=stars,issues&show_icons=true&theme=github_dark)](https://github.com/CodeWhatThouWilt)
   
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Yake&theme=github_dark)](https://github.com/CodeWhatThouWilt) -->
 

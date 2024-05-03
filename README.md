@@ -22,10 +22,12 @@
 <div align="center">
 
 ```
-I'm a dedicated software engineer with a deep interest in technology and continuous professional development. My interests include:
+I'm a dedicated software engineer with a deep interest in technology and continuous professional development.
 
--   Reading: I frequently engage with non-fiction to expand my knowledge of engineering and non-engineering topics and to stay informed about industry trends.
--   Fitness: Committed to strength and conditioning training, understanding the importance of a healthy body for a productive mind.
+My interests include:
+- Reading
+- Fitness
+- Meditation
 ```
 
 </div>
@@ -61,7 +63,8 @@ I'm a dedicated software engineer with a deep interest in technology and continu
 <div align="center">
 
 ```
-Proficient in a diverse set of programming tools and environments, I'm committed to using technology to solve complex problems effectively.
+Proficient in a diverse set of programming tools and environments,
+I'm committed to using technology to solve complex problems effectively.
 ```
 
 </div>
@@ -168,7 +171,7 @@ Proficient in a diverse set of programming tools and environments, I'm committed
     </table>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <h2>Connect</h2>
     <p>
     <p>
@@ -181,4 +184,25 @@ Proficient in a diverse set of programming tools and environments, I'm committed
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     </a>
     </p>
+</div> -->
+
+<div align="center">
+    <h2>Connect</h2>
 </div>
+
+<div align="center">
+
+```
+I'm always open to collaborating on projects and innovative ideas.
+
+Connect with me via LinkedIn:
+```
+
+</div>
+
+<p align="center">
+	<a href="www.linkedin.com/in/jacob-north-9b1266226">
+		<img height="75" width="75"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+	</a>
+</p>

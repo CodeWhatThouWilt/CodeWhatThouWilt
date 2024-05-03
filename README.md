@@ -2,7 +2,7 @@
     <strong>Software Engineer | Technology Enthusiast | Lifelong Learner</strong>
 </p>
 
-<div align="center">
+<!-- <div align="center">
     <h2>About Me</h2>
     <p>
         I'm a dedicated software engineer with a deep interest in technology and continuous professional development. My
@@ -14,8 +14,23 @@
             a productive mind.</li>
     </ul>
     </p>
+</div> -->
+<div align="center">
+	<h2>About Me</h2>
 </div>
 
+<div align="center">
+
+```
+I'm a dedicated software engineer with a deep interest in technology and continuous professional development. My interests include:
+
+-   Reading: I frequently engage with non-fiction to expand my knowledge of engineering and non-engineering topics and to stay informed about industry trends.
+-   Fitness: Committed to strength and conditioning training, understanding the importance of a healthy body for a productive mind.
+```
+
+</div>
+
+<!-- Languages List -->
 <div align="center">
     <h2>Languages</h2>
     <table>
@@ -39,13 +54,25 @@
     </table>
 </div>
 
+<div align="center">
+	<h2>Technologies</h2>
+</div>
+
+<div align="center">
+
+```
+Proficient in a diverse set of programming tools and environments, I'm committed to using technology to solve complex problems effectively.
+```
+
+</div>
+
 <!-- Technologies List -->
 <div align="center">
-    <h2>Technologies</h2>
-    <p>
+    <!-- <h2>Technologies</h2> -->
+    <!-- <p>
         Proficient in a diverse set of programming tools and environments, I'm committed to using technology to solve
         complex problems effectively.
-    </p>
+    </p> -->
     <table>
         <tr>
             <td align="center">

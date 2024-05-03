@@ -136,6 +136,7 @@
                 <div>Pytest</div><img height="50" width="50"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
             </td>
+			<td align="center" colspan="1"></td>
         </tr>
     </table>
 </div>
